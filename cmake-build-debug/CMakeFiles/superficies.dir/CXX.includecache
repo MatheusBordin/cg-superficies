@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mbordin/workspace/FEI/comp-graph/superficies/main.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+GL/glut.h
+/home/mbordin/workspace/FEI/comp-graph/superficies/GL/glut.h
+

@@ -1,0 +1,6 @@
+/opt/clion-2018.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mbordin/workspace/FEI/comp-graph/superficies
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so   
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mbordin/workspace/FEI/comp-graph/superficies/cmake-build-debug
